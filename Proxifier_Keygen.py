@@ -1,3 +1,4 @@
+>python Proxifier_Keygen.py
 import random
 import argparse
 from time import time
